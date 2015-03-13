@@ -2,7 +2,7 @@ Source: slurm-llnl-spank-plugin-x11
 Section: libs
 Priority: extra
 Maintainer: Stephan Gorget <stephan.gorget@edf.fr>
-Build-Depends: libslurm-dev, debhelper (>= 7)
+Build-Depends: debhelper (>= 7), libslurm-dev (>= 14.11.4-1)
 Standards-Version: 3.9.1
 
 Package: slurm-llnl-spank-plugin-x11

@@ -1,3 +1,10 @@
+slurm-llnl-spank-plugin-x11 (2.3.3+edf+2) calibre7; urgency=low
+
+  * Build-Depends on libslurm-dev >= 14.11.4-1.
+  * Set distribution field to calibre7.
+
+ -- Ana Guerrero <ana-externe.guerrero@edf.fr>  Fri, 13 Mar 2015 09:47:07 +0100
+
 slurm-llnl-spank-plugin-x11 (2.3.3+edf+1) unstable; urgency=low
 
   * New release 2.3.3
